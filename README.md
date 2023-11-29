@@ -3,7 +3,7 @@ Proyecto repositorio de Git
 # Este es un ejemplo de un titulo
 ![](RackMultipart20231129-1-38oe3i_html_d348dd5c418d562a.png) ![](RackMultipart20231129-1-38oe3i_html_7e3bf5fa3e95850a.png)
 
-# Campus de Coquimatlán
+# Campus de CoquiRanch
 
 # Facultad de ingeniería civil
 
