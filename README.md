@@ -2,7 +2,7 @@
 Proyecto repositorio de Git
 # Este es un ejemplo de un titulo
 
-![](https://github.com/SandraP2004/Prueba1/blob/main/topo.png)
+![](https://github.com/SandraP2004/Prueba1/blob/main/imagenes/topo.png)
 # Campus de CoquiRanch
 
 # Facultad de ingeniería civil
